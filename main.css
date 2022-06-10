@@ -36,7 +36,6 @@ header {
   padding: 5px;
   font-size: 18px;
   font-weight: bolder;
-  
 }
 
 .navbar {
@@ -113,8 +112,8 @@ form button {
   justify-content: space-between;
 }
 
-.list-item:nth-child(even){
-    background:#50968c;
+.list-item:nth-child(even) {
+  background: #50968c;
 }
 
 .remove-btn {
