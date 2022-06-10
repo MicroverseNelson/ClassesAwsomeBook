@@ -4,7 +4,7 @@
 A simple books website developed by Nelson, in javascript, html and css.
 
 # Deployment
-Live Demo coming soon
+Live Demo :https://microversenelson.github.io/ClassesAwsomeBook/
 
 # Getting started
 #### Step 1
