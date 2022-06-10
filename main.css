@@ -30,10 +30,13 @@ header {
 
 .logo {
   text-decoration: none;
-  color: white;
-  background: linear-gradient(to top, #fff000 0%, #000fff 100%);
+  color: #000;
+  background: #ffa500;
   border-radius: 5px;
   padding: 5px;
+  font-size: 18px;
+  font-weight: bolder;
+  
 }
 
 .navbar {
@@ -55,7 +58,7 @@ header {
 .title {
   text-align: center;
   margin: 12px 0;
-  color: #425cec;
+  color: #000;
 }
 
 .container {
@@ -110,12 +113,16 @@ form button {
   justify-content: space-between;
 }
 
+.list-item:nth-child(even){
+    background:#50968c;
+}
+
 .remove-btn {
   padding: 5px;
   border: none;
   text-decoration: none;
-  color: white;
-  background-color: #425cec;
+  color: #000;
+  background-color: #ffa500;
   border-radius: 5px;
 }
 
